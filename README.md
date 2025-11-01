@@ -85,8 +85,8 @@ Select “Multi-Output Device” as your system output, and “BlackHole” as t
 🖼️ Examples / Screenshots
 Mode	Description
 
-	<img width="1710" height="1068" alt="image" src="https://github.com/user-attachments/assets/c8dbec2f-cc46-4a68-8735-541dcadc493d" />
+![Visualizer Screenshot](https://github.com/user-attachments/assets/c8dbec2f-cc46-4a68-8735-541dcadc493d)
 Fullscreen visualization of a playing track
 
-	<img width="962" height="522" alt="image" src="https://github.com/user-attachments/assets/4e73a5ac-1337-4c66-bc92-0dbfce448191" />
+![Visualizer Screenshot](https://github.com/user-attachments/assets/4e73a5ac-1337-4c66-bc92-0dbfce448191)
 Audio input selector and preset controls
